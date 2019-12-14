@@ -1,10 +1,3 @@
-console.error('help me!');
-console.log('Hi there');
-console.warn('warning!');
-var word
-word = 'bird'
-console.log(word)
-
-word = 'dog'
-console.log(word)
-window.word
+var myNote = "Get Milk";
+//Later on
+myNote = "Get cookies"
